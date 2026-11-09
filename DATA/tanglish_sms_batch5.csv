@@ -1,0 +1,201 @@
+text,label,language,category
+"Dear user, michha panam thiruppi anupa bank details kettu verify pannunga.",1,tanglish,upi_refund
+"Customer care pesuren, unga refund stuck aayirukku, OTP sonna process aagum.",1,tanglish,otp_request
+"Dear user, idhu Axis Bank anti-fraud cell, card la repeated failed attempts, lockout ah prevent panna cooperate pannunga.",1,tanglish,fake_customer_care
+"Flipkart: Unga order delivered aayiduchu, thank you for shopping",0,tanglish,delivery_update
+"Dear customer, prize redemption ku OTP confirmation venum, code solli proceed pannunga.",1,tanglish,otp_request
+"PNR 8364719285: Status confirmed, Coromandel Express. Live status irctc.co.in",0,tanglish,train_pnr
+"Dear customer, DTDC parcel redelivery fee pending, kattalaina return aagidum.",1,tanglish,courier_customs
+"CIT: Mid-semester feedback form ellarum submit pannanum before 15 Nov, link: forms.gle/5xQ8nRtY3Z",0,tanglish,college_notice
+"Unga brother semester exam la nalla mark edutharu, ellarum happy",0,tanglish,family_chat
+"Dear customer, customs fee pay panna link click pannunga fedex-duty85.co",1,tanglish,courier_customs
+"Akka weekend varaanga kids oda, room konjam clean pannunga",0,tanglish,family_chat
+Swiggy: Order tracking link: swiggy.com/track/829374651,0,tanglish,delivery_update
+"TANGEDCO: Connection XX4172 ku bill ₹1,230, due 21-Nov-2026",0,tanglish,electricity_reminder
+"PNB OTP 816293 old device mobile banking deactivate panna. Valid 10 min, share pannadhinga.",0,tanglish,bank_otp
+"Dear Winner, unga UPI ID cashback bonanza la select aayirukku, 2 hours la claim pannunga.",1,tanglish,lottery_prize
+"PNR 2847193650: Status Waitlist 1, chart 4hrs munnadi prepare aagum",0,tanglish,train_pnr
+Sports department: Annual sports day 25 Nov ku postpone aagiduchu ground work ku,0,tanglish,college_notice
+"Dear consumer, unga meter la tampering kandu pudikapattirukku, penalty kattama connection cut aagum.",1,tanglish,electricity_bill
+"Dear user, HDFC KYC update panna link ah click pannunga hdfc-kycupdate82.shop",1,tanglish,kyc_update
+"Dear Winner, prize claim panna indha link click pannunga flipkart-win84.in",1,tanglish,lottery_prize
+"Rs 320 debited from A/c XX3192 towards Zomato via UPI. Avl Bal Rs 8,420. Not you? call 1800222333.",0,tanglish,upi_alert
+"Unga card la reward points expire aaga pogudhu, inniku redeem pannunga illana lapse aagidum.",1,tanglish,credit_card_reward
+Airtel: DTH recharge ₹350 successful. Channels active till 09-Dec-2026. Help: 121.,0,tanglish,recharge_confirmation
+"Reminder: Unga pet vet checkup tomorrow 4PM ku, call 04429998888 reschedule ku",0,tanglish,appointment_reminder
+"Umbrella eduthukonga, inga semma mazhai varudhu",0,tanglish,family_chat
+Hostel office: New entry timing 9PM next week irundhu,0,tanglish,college_notice
+"Mutual fund insider scheme la deposit pannina guaranteed monthly return kedaikum, inniku join pannunga.",1,tanglish,investment_crypto
+"Captcha typing job la dhinamum panam sambadhikalam, deposit katti join pannunga.",1,tanglish,job_offer
+HDFC Bank: OTP 639284 net banking login ku. Yaarukum share pannadhinga. Suspicious? call 18002586161.,0,tanglish,bank_otp
+"Dear user, cashback claim panna click pannunga gpay-cashback87.shop",1,tanglish,upi_refund
+"IRCTC: Unga ticket PNR 4318027579 status, check at irctc.co.in/eticketing",0,tanglish,delivery_update
+"Dear applicant, loan disbursal fee pay panna click pannunga loanapp89.shop",1,tanglish,instant_loan
+"A/c XX6184 credited ₹2,500.00 NEFT from Infosys Salary Dept. Ref 847392817465. -HDFC",0,tanglish,upi_alert
+"We short trip plan panrom next month, calendar check pannunga",0,tanglish,family_chat
+Jio: Unga recharge ₹299 successful. Validity till 07-Dec-2026. Help? call 1800889999.,0,tanglish,recharge_confirmation
+"A/c XX3192 credited ₹38,200.00 SALARY from TCS LIMITED. Not you? call 18605000000.",0,tanglish,salary_credit
+"Dear cardholder, points redeem panna link click pannunga ccrewards86.shop",1,tanglish,credit_card_reward
+"A/c XX2918 debited ₹85 towards recharge via UPI. Ref No 716293845172. Avl Bal ₹3,210. -PNB",0,tanglish,upi_alert
+"Canara Bank la Aadhaar-PAN link aagaadha karanam account restrict aayirukku, inniku sort pannunga.",1,tanglish,kyc_update
+"Enga scheme la investment podunga oru vaaram la double aagum, inniku start pannunga.",1,tanglish,investment_crypto
+Apollo Hospital: Dr. Reddy consultation 15-Nov 4:30PM. Reschedule? call 04428293333.,0,tanglish,appointment_reminder
+"Unga parcel delivery verify panna OTP venum, ippo vandha code sollunga.",1,tanglish,otp_request
+"Dear investor, forex robot trading guaranteed returns tharudhu, deposit panni start pannalam.",1,tanglish,investment_crypto
+"Unga ku vandha OTP ah reply pannunga, refund process panna vendiyirukku.",1,tanglish,otp_request
+"Vi: ₹719 recharge successful, validity 70 days. Customer care: 198.",0,tanglish,recharge_confirmation
+"Dear applicant, unga loan final stage la irukku, stamp duty fee kattina release aagum.",1,tanglish,loan_app
+"Dear consumer, outstanding dues irukku, inniku settle pannalaina saayangaalam disconnect aagum.",1,tanglish,electricity_bill
+"Dear customer, PAN-Aadhaar link panna click pannunga pan-aadhaar-link95.top",1,tanglish,kyc_update
+"HDFC OTP 573829 credit card limit increase ku. Share pannadhinga, report fraud at 18002586161.",0,tanglish,bank_otp
+"Cousin engagement function next week, ellarum varaanga",0,tanglish,family_chat
+"Insurance company pesuren, policy renew panna OTP venum, confirm pannunga.",1,tanglish,otp_request
+IRCTC: PNR 8273619485 status check at irctc.co.in. Chart prepares 4hrs before departure.,0,tanglish,train_pnr
+"A/c XX7823 credited ₹42,500.00 SALARY by WIPRO TECHNOLOGIES LTD. Not you? call 18002024333.",0,tanglish,salary_credit
+"Thatha rendu naal ah call pannalaye nu kekkuraanga, inniku raathiri call pannu",0,tanglish,family_chat
+"SBI: OTP 284917 new UPI payee add panna. Valid 10 mins. Share pannadhinga, call 1800112211 suspicious na.",0,tanglish,bank_otp
+"Unga Jio SIM KYC pending irukku, இன்னிக்கி இரவு disconnect aagum, urgent ah verify pannunga.",1,tanglish,kyc_update
+Exam cell: Revaluation form link: forms.gle/7mK3pLwX9Q,0,tanglish,college_notice
+Unga A/c XX4521 la irundhu ₹450.00 Swiggy ku UPI mulam debit aayiduchu. Ref No 319283746521. -SBI,0,tanglish,upi_alert
+"Dear customer, unga international parcel ku duty fee pending irukku, kattama release aagadhu.",1,tanglish,courier_customs
+Passport Seva Kendra: Appointment tomorrow 10:30AM. Call 1800258180 for queries.,0,tanglish,appointment_reminder
+"Myntra: Return pickup scheduled, track status at myntra.com/orders",0,tanglish,delivery_update
+"JVVNL: Bill amount ₹1,410 generated, due date 23-Nov-2026",0,tanglish,electricity_reminder
+A/c XX7823 debited ₹599 towards Hotstar subscription via UPI. Ref No 928374615203. -SBI,0,tanglish,upi_alert
+BSNL: Recharge ₹199 successful. Validity 28 days. Help desk: 1503.,0,tanglish,recharge_confirmation
+"Dear customer, idhu Kotak Bank fraud cell, verify panna 9090909090 number ku call pannunga",1,tanglish,fake_customer_care
+"Dear user, excess GST charge refund panna UPI pin verify pannanum.",1,tanglish,upi_refund
+Alumni association: Networking meetup final year students ku 16 Nov,0,tanglish,college_notice
+"Narcotics department pesuren. Unga peril oru drug parcel pidipattirukku, yaarukum theriyama vishayam solve pannanum.",1,tanglish,digital_arrest
+"A/c XX6184 credited ₹31,200.00 SALARY by Infosys BPM Services Pvt Ltd. Call 18004251234 if unrecognized.",0,tanglish,salary_credit
+Reminder: Unga physiotherapy session 20-Nov ku schedule aayiduchu,0,tanglish,appointment_reminder
+"Dear user, job registration ku wa.me/919867891234 number la contact pannunga",1,tanglish,job_offer
+"A/c XX4521 credited ₹55,000.00 SALARY by ACCENTURE SOLUTIONS PVT LTD. Not you? call 1800222333.",0,tanglish,salary_credit
+"CESC: Bill ₹1,980 due 24-Nov, pay at cesc.co.in",0,tanglish,electricity_reminder
+Fee payment notice: Online payment portal link: cit.edu.in/feepayment,0,tanglish,college_notice
+"Dear user, instant credit line activate aagiduchu, annual fee katti use pannunga.",1,tanglish,loan_app
+"Home-based job la dhinamum ₹2000 sambadhikalam, registration fee katti join pannunga.",1,tanglish,job_offer
+"Dear user, parcel release panna fee pay panna click pannunga bluedart-fee91.shop",1,tanglish,courier_customs
+"Unga electricity indha raathiri cut aagum, bill pending irukku. Urgent ah office ah contact pannunga.",1,tanglish,electricity_bill
+"Rs 1,050 credited to A/c XX1847 via UPI from Priya Nair. Ref No 384729164857. -Kotak Bank",0,tanglish,upi_alert
+"Dear user, verification ku 9871234560 number ku call pannunga, disconnect panna kudathu",1,tanglish,digital_arrest
+"Rs 2,100 debited from A/c XX3192 towards electricity bill via UPI. Ref No 174829365172. -Axis Bank",0,tanglish,upi_alert
+Lenskart: Eye test confirmed Saturday 3PM. Reschedule at lenskart.com/myorders or call 08069170000.,0,tanglish,appointment_reminder
+"Nykaa: Unga order shipped via Bluedart, track at bluedart.com/tracking/827364912",0,tanglish,delivery_update
+"Dear subscriber, bill correction fee kattama connection terminate aagum inniku.",1,tanglish,electricity_bill
+"Dear cardholder, reward redeem panna link click pannunga axiscard92.shop",1,tanglish,credit_card_reward
+"Unga loan approve aagiduchu, release panna processing fee ₹500 anuppunga.",1,tanglish,instant_loan
+Myntra: Unga return pickup tomorrow 10AM-2PM schedule aayiduchu,0,tanglish,delivery_update
+"Unga SBI account KYC incomplete ah irukku, today itself block aagidum, immediately update pannunga.",1,tanglish,kyc_update
+"Dear customer, idhu Yes Bank fraud desk, ATM withdrawal suspicious aayirukku, card block aagaama verify pannunga.",1,tanglish,fake_customer_care
+"Bank fraud department pesuren, unga card la suspicious transaction irukku, verify pannanum.",1,tanglish,fake_customer_care
+"Dear customer, refund process panna 7012345678 number ku OTP sollunga",1,tanglish,otp_request
+"Enforcement Directorate pesuren, unga locker investigation la irukku, idha yaarukum sollakudadhu.",1,tanglish,digital_arrest
+"Dear customer, unga loan amount sanction aagiduchu, GST fee kattina udaney varum.",1,tanglish,instant_loan
+Research cell: Paper submission form: forms.gle/9pR4sTuV7M,0,tanglish,college_notice
+"Dear user, refund approve aayirukku, transfer panna click pannunga bit.ly/refundnow96",1,tanglish,upi_refund
+PNR 5172938461: Tatkal ticket confirmed. Status at irctc.co.in,0,tanglish,train_pnr
+PNB OTP 573829 mobile update verify panna. Valid 10 min. Fraud? call 18001800.,0,tanglish,bank_otp
+"Dear investor, stock tips group la join panni periya profit edukalam, entry fee venum.",1,tanglish,investment_crypto
+"Unga ku refund vanthirukku, accept panna UPI PIN sollunga.",1,tanglish,upi_refund
+"A/c XX7823 ku ₹1,200.00 UPI mulam Rahul Sharma irundhu credit aayiduchu. Ref No 482917364852. -SBI",0,tanglish,upi_alert
+"APSPDCL: Monthly bill ₹1,560 generated, pay at apspdcl.in",0,tanglish,electricity_reminder
+"Dear user, job details ku wa.me/919845671230 number la contact pannunga",1,tanglish,job_offer
+"Indha bill kattalaina unga veetu power connection disconnect aagidum, urgent ah settle pannunga.",1,tanglish,electricity_bill
+"Delivery agent pesuren, address verification fee kattama parcel kudukka mudiyadhu.",1,tanglish,courier_customs
+"Paytm security team pesuren, unga wallet la fraud alert irukku, verify pannanum.",1,tanglish,fake_customer_care
+Naturals Salon: Haircut booking confirmed 5PM. Call 04423456789 to reschedule.,0,tanglish,appointment_reminder
+"Dear investor, scheme details ku 9834567890 number ku contact pannunga",1,tanglish,investment_crypto
+"Dear consumer, bill pay panna click pannunga bescom-pay93.in",1,tanglish,electricity_bill
+"WhatsApp status share panni panam sambadhikalam, registration fee venum start panna.",1,tanglish,job_offer
+"A/c XX1847 credited ₹29,500.00 stipend by L&T Technology Services. Call 18002095555 if unrecognized.",0,tanglish,salary_credit
+"Dear customer, duplicate payment refund panna account verify pannanum, details kodunga.",1,tanglish,upi_refund
+Hostel notice: Water supply interruption info updated at cit.edu.in/notices,0,tanglish,college_notice
+CBI officer pesuren. Unga pya oru fraud case la arrest aayirukan. Yaarukum sollama udaney panam anupunga.,1,tanglish,digital_arrest
+"Dear customer, Jio SIM KYC verify panna link click pannunga jio-simkyc88.co",1,tanglish,kyc_update
+"Idhu Mumbai Cyber Crime Unit, unga account fraud ring la flag aayirukku, idha call disconnect panna kudathu.",1,tanglish,digital_arrest
+"Dear Winner, Amazon lucky draw prize claim panna link click pannunga amazonlucky90.top",1,tanglish,lottery_prize
+"Dear applicant, MoneyTap loan activate panna link click pannunga loanoffer94.top",1,tanglish,loan_app
+"A/c XX9271 credited ₹48,900.00 SALARY by HCL TECHNOLOGIES LTD. Not you? call 18002024333.",0,tanglish,salary_credit
+Croma: Washing machine delivery scheduled tomorrow 11AM-1PM. Track at croma.com/orders.,0,tanglish,delivery_update
+"Smart meter la unauthorized usage kandu pudikapattirukku, fine kattama connection cut aagum.",1,tanglish,electricity_bill
+"Unga parcel customs la hold aayirukku, clearance fee kattama varadhu.",1,tanglish,courier_customs
+"Dear customer, unga ku Rs 5000 UPI la vanthirukku, accept panna 10 minutes la click pannunga bit.ly/upiaccept81",1,tanglish,upi_refund
+"KSEB: Bill ₹740 due 19-Nov, pay at kseb.in",0,tanglish,electricity_reminder
+"Train 12639 Brindavan Express cancel aayiduchu, refund info at irctc.co.in/refunds",0,tanglish,train_pnr
+"Chithi phone number change aayiduchu, pudhu number 9456781230",0,tanglish,family_chat
+"BigBasket: Unga grocery order pack aayiduchu, evening ku deliver aagum",0,tanglish,delivery_update
+"Idhu Cyber Crime Branch. Unga Aadhaar number oru money laundering case la irukku. Yaarukum sollama engaloda pesunga, idhu digital arrest.",1,tanglish,digital_arrest
+"MSEB: Bill ₹1,120 generated, pay online at mahadiscom.in",0,tanglish,electricity_reminder
+"Hey idhu en new number save pannunga, 9876543210, free ah irukkum podhu call pannu",0,tanglish,family_chat
+"Dear Customer, bank account KYC verify aagalainu 24 hours la freeze aagidum, branch ku contact pannunga.",1,tanglish,kyc_update
+"BSNL: ₹397 recharge aayiduchu, validity extend 90 days",0,tanglish,recharge_confirmation
+"Jio: Unga ₹149 recharge successful, validity 24 days",0,tanglish,recharge_confirmation
+"Dear subscriber, prepaid meter balance negative aayirukku, recharge pannalaina power cutoff aagum.",1,tanglish,electricity_bill
+"Department of ECE: Lab internal marks notice board la Friday publish aagum, queries call 04422334455",0,tanglish,college_notice
+"Swiggy: Unga dinner order prepare aagudhu, delivery partner 25 mins la varum",0,tanglish,delivery_update
+"Unga mobile number oru lottery la select aayirukku, prize claim panna registration fee venum.",1,tanglish,lottery_prize
+"CIT: Placement drive registration, Google Form fill pannunga before 5 PM: forms.gle/3xK9mPqR2L",0,tanglish,college_notice
+"SBI card holder, unga points lapse aaga pogudhu, inniku redeem pannanum illana poiyidum.",1,tanglish,credit_card_reward
+"Amazon: Unga order #402-7719234 out for delivery, track at amazon.in/orders",0,tanglish,delivery_update
+Dept notice: Make-up class Digital Signal Processing Saturday scheduled,0,tanglish,college_notice
+"Idhu Chennai Police Cyber Wing, unga bank account money laundering probe la irukku, 20 minutes la respond pannunga.",1,tanglish,digital_arrest
+Zepto: Track unga order delivery live at zeptonow.com/track/19283746,0,tanglish,delivery_update
+"Crypto trading group la join panni guaranteed profit sambadhikalam, deposit pannunga.",1,tanglish,investment_crypto
+"Dear user, Airtel Payments Bank wallet KYC non-compliance ah irukku, verify panni unlock pannunga.",1,tanglish,kyc_update
+Airtel: ₹479 recharge done. Validity 56 days. Issues? call 121 from unga Airtel number.,0,tanglish,recharge_confirmation
+"Dear customer, Bandhan Bank la KYC review pending, 8 hours la update pannalaina account block aagum.",1,tanglish,kyc_update
+SBI: Unga OTP debit card transaction ku 482917. Valid 10 mins. Share pannadhinga. Not you? call 1800112211.,0,tanglish,bank_otp
+"Dear user, idhu ICICI Bank fraud cell, blocked transaction attempt irukku, unblock panna verify pannunga.",1,tanglish,fake_customer_care
+Reminder: Unga dental appointment Dr. Menon oda tomorrow 11AM ku,0,tanglish,appointment_reminder
+ECE dept: Project review Google Form registration: forms.gle/4nL8qRwY2K,0,tanglish,college_notice
+"Dear Winner, neenga oru bike vechinga, delivery fee kattina varum.",1,tanglish,lottery_prize
+"Dear user, home-based data entry job la ₹15000 salary, apply panni seat confirm pannunga.",1,tanglish,job_offer
+Congratulations! Neenga KBC lucky draw la Rs 25 lakh vechinga. Claim panna engaloda contact pannunga.,1,tanglish,lottery_prize
+"Dear consumer, bill pay panna link click pannunga, illana disconnect aagum eb-paynow83.top",1,tanglish,electricity_bill
+"KreditBee app la unga loan limit increase aagiduchu, activate panna fee katunga.",1,tanglish,loan_app
+"Unga parcel weight mismatch aayirukku, extra charge kattanum delivery ku.",1,tanglish,courier_customs
+Deposit panna enga WhatsApp number ah contact pannunga wa.me/919823456781,1,tanglish,investment_crypto
+"Dear customer, telecom lucky draw la unga recharge number select aayirukku, claim agent ah contact pannunga.",1,tanglish,lottery_prize
+"This recipe video amazing ah irukku, watch here: youtu.be/kJQP7kiw5Fk",0,tanglish,family_chat
+"Idhu Rajasthan Cyber Crime Branch, unga SIM extortion case la linked aayirukku, verification ku call la irunga.",1,tanglish,digital_arrest
+SBI OTP 917283 mobile banking register panna. Valid 5 minutes. Fraud helpline 1930.,0,tanglish,bank_otp
+"Unga ku pre-approved personal loan irukku, disburse panna munnaadi insurance fee katta vendiyirukku.",1,tanglish,instant_loan
+"Grandma number 9234561234, free ah irukkum podhu call pannu",0,tanglish,family_chat
+"TNEB: Unga bill ₹1,340 due 18-Nov. Pay online at tnebnet.org",0,tanglish,electricity_reminder
+PNR 6192837465: Berth RAC 12. Check live status at irctc.co.in,0,tanglish,train_pnr
+"Dear Winner, unga number Dmart draw la select aayirukku, cash prize claim panna contact pannunga.",1,tanglish,lottery_prize
+"Dear user, idhu SBI fraud team, verify panna 9123456780 number ku call pannunga",1,tanglish,fake_customer_care
+"Unga account XX2918 ku ₹61,300.00 SALARY credit aayiduchu COGNIZANT TECHNOLOGY SOLUTIONS",0,tanglish,salary_credit
+"Pharmeasy: Medicine order dispatched, track at pharmeasy.in/orders",0,tanglish,delivery_update
+"BESCOM: Bill ₹890 connection XX2718 ku due 20th Nov, pay at bescom.co.in",0,tanglish,electricity_reminder
+"Train 12723 Telangana Express late ah oodudhu, live status at enquiry.indianrail.gov.in",0,tanglish,train_pnr
+"Appa sonna car service aayiduchu, driver number 9871122334 call panni confirm pannikonga",0,tanglish,family_chat
+"Dear applicant, loan details confirm panna 8734561290 number ku call pannunga",1,tanglish,loan_app
+"RBI officer pesuren, unga account review la irukku, idha call la cooperate pannunga.",1,tanglish,fake_customer_care
+"Dear customer, thavaraaga panam credit aayirukku, thiruppi anupa account details kodunga.",1,tanglish,upi_refund
+Dept notice: Submit feedback form by 15 Nov: forms.gle/8tY2nQwE4P,0,tanglish,college_notice
+TVS Showroom: Bike service Saturday 10AM. Call 04422223333 to reschedule.,0,tanglish,appointment_reminder
+"Idhu Income Tax officer. Unga account la unaccounted panam irukku, idha disconnect pannama cooperate pannunga.",1,tanglish,digital_arrest
+"Flipkart: Unga order shipped, track at flipkart.com/track/FKT938271",0,tanglish,delivery_update
+ICICI OTP 639281 net banking password reset ku. Fraud helpline 1930 suspicious na.,0,tanglish,bank_otp
+"Idhu Police Cyber Cell. Unga number oru fraud complaint la vanthirukku, ippo video call la irunga, disconnect panna kudathu.",1,tanglish,digital_arrest
+"Check this YouTube video enoda friend sent, super funny: youtu.be/dQw4w9WgXcQ",0,tanglish,family_chat
+"Doctor appointment confirm aachu, number 9123456780 call panni confirm pannikonga",0,tanglish,family_chat
+"Bank officer pesuren, unga card la fraud transaction nadachirukku, OTP sollunga cancel panna.",1,tanglish,otp_request
+"Amma favourite sambar vachirukanga, early ah veedu vara mudiyuma",0,tanglish,family_chat
+"Jio: ₹2,999 annual plan activated. Validity till 08-Nov-2027. Care: 199.",0,tanglish,recharge_confirmation
+"Dear applicant, Navi app loan pre-approved, processing charge katti instant disbursal perunga.",1,tanglish,loan_app
+Axis Bank: OTP 395172 UPI registration ku. Share pannadhinga. Report misuse at 18604195555.,0,tanglish,bank_otp
+Maruti Service Centre: Car service tomorrow 9AM. Call 04428889999 to confirm slot.,0,tanglish,appointment_reminder
+Debit alert: ₹199 paid to Netflix via UPI from A/c XX9271. Ref 572839164728. -SBI,0,tanglish,upi_alert
+"ICICI Bank: OTP 718265 fund transfer ₹4,500 ku. Valid 5 min. Not you? call 1800102484.",0,tanglish,bank_otp
+"Dear cardholder, HSBC points soon expire aagum, cashback ah convert panna ippo call pannunga.",1,tanglish,credit_card_reward
+"Online survey job la oru survey ku ₹500, registration panni first task edunga.",1,tanglish,job_offer
+"Bank officer pesuren, unga reward points cash ah maatha details kodunga.",1,tanglish,credit_card_reward
+Kotak Bank: OTP 824651 debit card PIN change ku. Report suspicious activity at 18602662666.,0,tanglish,bank_otp
+"Amma number marandutingala, idhu than 9345678120, save pannikonga",0,tanglish,family_chat
+"Union Bank account la KYC pending irukku, services suspend aagum, branch visit panni update pannunga.",1,tanglish,kyc_update
+"Dear cardholder, unga points indha raathiriku expire aagum, cashback ah maatha details kodunga.",1,tanglish,credit_card_reward
+"Dear customer, loan department pesuren, disbursal ku OTP venum, finalize panna confirm pannunga.",1,tanglish,otp_request
+"Dear customer, Diwali bumper lottery la unga number select aayirukku, claim agent ah contact pannunga.",1,tanglish,lottery_prize

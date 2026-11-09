@@ -1,0 +1,201 @@
+text,label,language,category
+Reminder: Your scooter service appointment at the TVS center is scheduled tomorrow 9:30 AM.,0,english,appointment_reminder
+Axis Bank: OTP 918273 for enabling international transactions on your debit card. Do not disclose.,0,english,bank_otp
+"CESC: Your bill of Rs 1,670 has been generated for this billing cycle, due 26-Nov-2026.",0,english,electricity_reminder
+Dept circular: Internship report submission deadline extended to 20 Nov for final year students.,0,english,college_notice
+1mg: Your medicine order has been dispatched and will arrive within 24 hours.,0,english,delivery_update
+"Dept office: Attendance shortage list will be published on Monday, check before it's too late.",0,english,college_notice
+Dad wants to know if you need money transferred for hostel mess fee this month,0,english,family_chat
+"Dear customer, your parcel delivery is delayed, please share the OTP to reschedule the slot",1,english,otp_request
+"Ecom Express: Parcel returned to hub, pay Rs 60 storage fee within 24 hrs or item will be destroyed",1,english,courier_customs
+"Dad's health checkup went well, doctor said everything is normal, don't worry",0,english,family_chat
+"RupeeRocket: Instant personal loan Rs 65,000 sanctioned, clear Rs 780 stamp duty charge to transfer amount",1,english,loan_app
+"Reminder: Pay the WiFi bill before 10th, dad forgot to do it this time",0,english,family_chat
+"Simple WhatsApp forwarding job, earn Rs 3,000 weekly, no qualification needed, DM to join group",1,english,job_offer
+"Student council: Cultural fest committee meeting today 5 PM in the committee room, all members required.",0,english,college_notice
+"Dear customer, your UPI transaction failed but amount was deducted, click to claim refund of Rs 720 now",1,english,upi_refund
+"Dear user, your pending UPI refund of Rs 1,340 has been approved, click link to transfer to your bank",1,english,upi_refund
+"Delhivery: Your parcel is held due to incomplete KYC, pay Rs 180 verification charge to release shipment",1,english,courier_customs
+Ajio: Return pickup scheduled for your returned item tomorrow between 11 AM - 2 PM.,0,english,delivery_update
+"A/c XX4521 credited Rs 39,800.00 SALARY by Tech Mahindra Ltd. Avl Bal Rs 58,220.",0,english,salary_credit
+"Amma made your favourite sambar today, come home early if you can",0,english,family_chat
+"Urgent: Power supply disconnection scheduled this evening, outstanding bill Rs 2,480 must be cleared",1,english,electricity_bill
+"XpressBees: Delivery attempt failed, outstanding redelivery charge Rs 90 must be cleared before next attempt",1,english,courier_customs
+"Lenskart: Your spectacles order has been delivered, warranty card included in the package.",0,english,delivery_update
+"Reliance Digital: Your TV delivery is confirmed for tomorrow between 2-5 PM, installation included.",0,english,delivery_update
+"Placement cell: Pre-placement talk by Infosys scheduled 13 Nov, 10 AM, auditorium, attendance compulsory.",0,english,college_notice
+"BigBasket: Your order is out for delivery, delivery partner Suresh is 10 minutes away.",0,english,delivery_update
+"Did you take your umbrella? It's raining heavily here, don't get wet on your way back",0,english,family_chat
+HDFC Bank OTP 572816 for updating registered mobile number. Never share this code with anyone.,0,english,bank_otp
+"Dhani app: Rs 30,000 loan credited pending, confirm by paying Rs 500 insurance premium within the hour",1,english,loan_app
+"Chithappa's son got into IIT, everyone is very happy, call and congratulate him",0,english,family_chat
+"This is SBI card security team, your card blocked due to fraud alert, call to unblock immediately",1,english,fake_customer_care
+"Neighbour's son is also preparing for the same exam, maybe you both can study together",0,english,family_chat
+"Ikea: Your furniture order has reached the nearest hub, final delivery expected within 2 days.",0,english,delivery_update
+"Flipkart: Your order #FKT938271 has been delivered. Thank you for shopping with us, rate your experience.",0,english,delivery_update
+"This is courier support team, kindly read out the OTP displayed to confirm parcel handover",1,english,otp_request
+Swiggy Instamart: Your grocery order is packed and will reach you in 18 minutes.,0,english,delivery_update
+"Amazon support here, your account shows suspicious orders, call verification line to secure your account",1,english,fake_customer_care
+"Dunzo: Your package has been picked up and is on the way, arriving in 20 minutes.",0,english,delivery_update
+"Jaipur Police Cyber Division: Your Aadhaar linked to fake passport racket, respond within 15 minutes to avoid legal action",1,english,digital_arrest
+"SmartRupee: Pre-sanctioned loan of Rs 40,000 expiring tonight, transfer Rs 700 processing fee to claim",1,english,loan_app
+"Blinkit: Your 10 minute delivery order has been placed successfully, arriving shortly.",0,english,delivery_update
+"This is Telangana Cyber Crime Cell, suspicious crypto transaction traced to your Aadhaar, respond within 25 minutes",1,english,digital_arrest
+"QuickMoney app: Your salary advance of Rs 18,000 approved, pay Rs 299 documentation fee to release funds",1,english,loan_app
+Yes Bank OTP 827364 to verify your email update request. Valid for 5 minutes only.,0,english,bank_otp
+"Zomato is recruiting home-based order verifiers, Rs 800/day, limited slots, click to register now",1,english,job_offer
+"Narcotics Bureau Chennai: Your parcel containing banned items was intercepted, join video call in 10 mins or warrant issued",1,english,digital_arrest
+"Shiprocket: Package undelivered due to wrong pin code, pay Rs 75 correction fee to reattempt delivery",1,english,courier_customs
+Research cell: Paper submission deadline for the annual symposium extended to 21 Nov.,0,english,college_notice
+SBI OTP 384729 for adding new beneficiary. Valid for 10 minutes. Do not share with anyone.,0,english,bank_otp
+"Shopsy: Your order is out for delivery, delivery partner will contact before arrival.",0,english,delivery_update
+"UPS Worldwide: Your shipment is held at port, duty payment of Rs 610 required to avoid return to sender",1,english,courier_customs
+"Dear Winner, your mobile number has been selected for Rs 22,000 cash prize in online survey contest",1,english,lottery_prize
+Reminder: Send your bank account details to dad for the fee transfer this week,0,english,family_chat
+"Library: New arrivals in the embedded systems section are now available for issue, visit the counter.",0,english,college_notice
+"Your overseas gift parcel is on hold, customs processing fee Rs 390 pending, settle to receive item",1,english,courier_customs
+Department of ECE: Lab internal marks will be displayed on notice board by Friday 5 PM.,0,english,college_notice
+"A/c XX5172 debited Rs 230 towards Uber ride via UPI. Ref No 639281745920. Avl Bal Rs 12,340.",0,english,upi_alert
+"Federal Bank OTP 918264 for debit card reissue request. Valid 10 min, do not share with anyone.",0,english,bank_otp
+"KreditZone app: Loan amount Rs 35,000 sanctioned instantly, pay Rs 599 processing charge to receive funds today",1,english,loan_app
+"Flipkart WFH hiring: Pack products from home, earn Rs 22,000 monthly, apply with registration fee Rs 349",1,english,job_offer
+"Federal Bank: Your account access restricted due to incomplete KYC, verify today to restore full access",1,english,kyc_update
+"Anti-ragging committee notice: Awareness session for first years on 14 Nov, 11 AM, auditorium.",0,english,college_notice
+"Dear user, your Airtel Payments Bank account suspended for KYC non-compliance, complete verification now",1,english,kyc_update
+"We are from customer care, your refund is on hold, please tell us the OTP you just received",1,english,otp_request
+Reminder: Your AC servicing appointment is confirmed for Sunday between 10 AM - 12 PM.,0,english,appointment_reminder
+"MoneyView: Loan of Rs 95,000 pre-approved based on your profile, pay Rs 1,100 legal verification fee first",1,english,loan_app
+Your sister is asking for your hostel address to send the sweets she made,0,english,family_chat
+"IDBI Bank: Your e-KYC form rejected due to blurred photo, resubmit within 12 hours or account gets frozen",1,english,kyc_update
+"A/c XX7823 credited Rs 36,400.00 SALARY by Capgemini Technology Services India Ltd.",0,english,salary_credit
+"Dear customer, this is Paytm risk team, your wallet shows fraud alert, call 9123408765 to resolve",1,english,fake_customer_care
+"Dear investor, our AI trading algorithm doubles investment in 15 days, start with Rs 11,000 deposit today",1,english,investment_crypto
+"Myntra: Your exchange request for size M has been approved, new item will ship within 2 days.",0,english,delivery_update
+"Dear cardholder, 6,900 reward points will expire at midnight, redeem now to avoid losing them",1,english,credit_card_reward
+"Dear user, ₹7,300 worth credit card points expiring tonight, click to convert to cashback instantly",1,english,credit_card_reward
+"Your friend Arjun called the house phone looking for you, said it's urgent",0,english,family_chat
+Dept notice: Lab coat and ID card mandatory for all practical sessions starting this week.,0,english,college_notice
+"Chennai Cyber Cell notice: Your number appeared in a human trafficking case file, stay on line for verification",1,english,digital_arrest
+CIT: Mid-semester feedback form must be submitted online by all students before 15 Nov.,0,english,college_notice
+"Dear customer, your number selected in Diwali bumper lottery, prize amount Rs 8 Lakh, contact us to claim",1,english,lottery_prize
+"Dear consumer, your connection will be disconnected by tonight due to unpaid dues of Rs 1,690",1,english,electricity_bill
+"Transport office: Bus route 4 timing changed to 7:45 AM from Monday, inform your parents.",0,english,college_notice
+"MSEB: Monthly bill Rs 1,480 generated, due date 24-Nov-2026, pay at any authorized center.",0,english,electricity_reminder
+"Your Speed Post parcel is pending customs inspection, pay Rs 220 handling charge to release today",1,english,courier_customs
+"Rs 1,200 debited from A/c XX3192 towards rent payment via UPI. Ref No 639281745012.",0,english,upi_alert
+"Kotak Bank OTP 719534 to link new mobile number to your account. Valid 10 minutes, keep confidential.",0,english,bank_otp
+"Yes Bank: Your 11,400 reward points expiring in 6 hours, redeem through the link to avoid loss",1,english,credit_card_reward
+"ICICI OTP 639482 to confirm your fixed deposit renewal. Valid 5 minutes, keep confidential.",0,english,bank_otp
+"Your brother scored well in his semester exams, everyone is proud of him",0,english,family_chat
+Exam section: Hall tickets for end semester exams will be issued from 18 Nov onwards at the office.,0,english,college_notice
+"JVVNL: Your bill amount is Rs 1,320 for connection XX5172, due date 29-Nov-2026.",0,english,electricity_reminder
+"Congratulations, you are shortlisted for home-based content writing job, Rs 28,000/month, pay Rs 599 to confirm seat",1,english,job_offer
+"PaySense: Dear user, your loan Rs 55,000 is in final stage, confirm bank details and pay Rs 950 NOC charge",1,english,loan_app
+"Kolkata Cyber Crime Branch: An FIR number 2024/CC/8812 registered against your Aadhaar, call back within 30 mins",1,english,digital_arrest
+"This is Income Tax Enforcement Cell, undisclosed foreign remittance found under your PAN, join call to avoid arrest",1,english,digital_arrest
+"Dear Vi subscriber, your number will be barred due to pending Aadhaar KYC, resolve within 24 hours",1,english,kyc_update
+"Dear Winner, Pepsi anniversary lucky draw selected your number for Rs 40,000 prize, claim before evening",1,english,lottery_prize
+Japan Post International: Your parcel requires import tax payment of Rs 540 to clear customs,1,english,courier_customs
+"Akka said she'll visit this weekend with the kids, clean your room a bit",0,english,family_chat
+"Alumni association: Networking meetup for final year students on 16 Nov, 3 PM, seminar hall.",0,english,college_notice
+"Reminder: Your yoga class at the wellness center starts tomorrow 6 AM, please be on time.",0,english,appointment_reminder
+A/c XX2918 debited Rs 450 towards BookMyShow booking via UPI. Ref No 174829635172.,0,english,upi_alert
+"CashLoanNow: Your loan request of Rs 70,000 approved without documents, small GST fee Rs 850 applies before transfer",1,english,loan_app
+"PNR 4728391650: Status confirmed, Coach S9, Berth 55, train departs 21:50 from platform 2.",0,english,train_pnr
+"Licious: Your fresh meat order has been delivered, please check the package on arrival.",0,english,delivery_update
+"Rs 1,650 credited to A/c XX8172 via UPI from Karthik Rajan. Ref No 827364519283. -ICICI Bank",0,english,upi_alert
+"Jio: Rs 479 recharge successful, validity 56 days, unlimited calls included.",0,english,recharge_confirmation
+Sports department: Annual sports day postponed to 25 Nov due to ground maintenance work.,0,english,college_notice
+"Career guidance cell: Mock interview sessions for placements start 19 Nov, sign up at the office.",0,english,college_notice
+"Final reminder: Electricity bill Rs 2,050 unpaid for connection, supply cut scheduled in 5 hours, pay now",1,english,electricity_bill
+"Dear Winner, Reliance anniversary contest selected your number for Rs 60,000 prize, claim within 3 hours",1,english,lottery_prize
+"This is bank verification officer, read the OTP on your screen to cancel the fraudulent transaction",1,english,otp_request
+"Nykaa Fashion: Your order has been shipped, expected delivery in 3-4 business days.",0,english,delivery_update
+"We reached the hospital safely, grandpa is stable now, will update you after the checkup",0,english,family_chat
+"Dear user, your Jio number flagged for KYC mismatch, update within 6 hours to avoid deactivation",1,english,kyc_update
+Reminder: Your dermatology appointment at Apollo Clinic is tomorrow at 3:30 PM.,0,english,appointment_reminder
+Your parcel from abroad requires GST payment of Rs 465 before delivery can be scheduled,1,english,courier_customs
+"Amma asked if you packed your warm clothes, it's getting cold there now",0,english,family_chat
+"Earn Rs 2,200/day sharing company ads on your WhatsApp status, registration link inside telegram group",1,english,job_offer
+Amma is asking if you want her to send pickles through the courier this week,0,english,family_chat
+"Jio: Rs 349 recharge successful, validity 28 days with unlimited calls and 1.5GB/day.",0,english,recharge_confirmation
+"Hyderabad Police Cyber Wing: Your SIM card is linked to a terror funding case, do not disconnect this call",1,english,digital_arrest
+"This is CBI Special Cell, your PAN card used for illegal fund transfer, confirm identity via video verification now",1,english,digital_arrest
+A/c XX9271 credited Rs 920 refund from Zomato via UPI. Ref No 174829635920. -Axis Bank,0,english,upi_alert
+"Dept notice: Make-up class for Digital Signal Processing scheduled Saturday 10 AM, Room 204.",0,english,college_notice
+"Your uncle is visiting the city next week, he wants to meet you if you're free",0,english,family_chat
+"IRCTC: Your PNR 1847293650 chart has been prepared, status CNF, Coach S2, Berth 41.",0,english,train_pnr
+"Your account XX1847 has been credited with Rs 44,600.00 towards SALARY by Mindtree Ltd.",0,english,salary_credit
+"Join our forex signal group, guaranteed Rs 4,000 daily profit, minimum deposit Rs 9,000 to start",1,english,investment_crypto
+"Daily task job: Watch videos and earn Rs 1,500/day, join our telegram channel for instructions",1,english,job_offer
+"This is Customs Intelligence Unit, a gold smuggling parcel traced to your address, confirm details on video call now",1,english,digital_arrest
+"Hiring freshers for home-based telecalling job, Rs 19,000/month, pay Rs 450 training material charge to start",1,english,job_offer
+"This is State Cyber Crime Helpline, your phone number used in an online scam complaint, join verification call now",1,english,digital_arrest
+"Ahmedabad Police: Your bank locker flagged in money laundering probe, cooperate on this call or face digital arrest",1,english,digital_arrest
+"Your Myntra return package stuck at warehouse, pending inspection fee Rs 140 needs to be paid",1,english,courier_customs
+A/c XX7823 debited Rs 275 towards mobile recharge via UPI. Ref No 573819264720.,0,english,upi_alert
+"Notice: Your electricity board detected unauthorized usage, settle fine of Rs 3,200 within 3 hours",1,english,electricity_bill
+"This is RBI Fraud Monitoring Cell, suspicious transaction flagged on your account, join call to verify within 20 mins",1,english,digital_arrest
+"Bank of Baroda: Your savings account marked inactive due to KYC lapse, reactivate it today to continue banking",1,english,kyc_update
+"Earn Rs 900 daily doing captcha typing jobs, no experience required, register with refundable deposit",1,english,job_offer
+"This is Mumbai Police Economic Offences Wing, your UPI ID flagged in a cyber fraud chain, respond on call now",1,english,digital_arrest
+Your parcel from Bluedart international hub needs address verification fee Rs 155 paid to proceed further,1,english,courier_customs
+Rs 380 debited from A/c XX6184 towards electricity bill payment via UPI. Ref No 283746519283.,0,english,upi_alert
+"PhonePe: Your failed transaction amount Rs 980 is ready to be refunded, tap to confirm and receive",1,english,upi_refund
+"Your account XX8172 credited with Rs 52,100.00 towards SALARY by HCL Technologies Ltd.",0,english,salary_credit
+"PNR 9172836450: Status RAC 4, likely to confirm soon. Chart prepared 4 hours before departure.",0,english,train_pnr
+Pharmeasy: Your medicine order has been delivered to the security desk as requested.,0,english,delivery_update
+"Congratulations, your SIM card number won Rs 15 Lakh in telecom lucky draw, call to claim now",1,english,lottery_prize
+"This is Pune Cyber Crime Unit. A courier with illegal substances was booked using your Aadhaar number, respond immediately",1,english,digital_arrest
+Amma wants to know what time your bus reaches so she can keep food ready,0,english,family_chat
+"InstaFund app: Rs 20,000 emergency loan ready, no CIBIL check required, pay Rs 399 handling fee first",1,english,loan_app
+"PNR 7283916452: Status confirmed, Coach B4, Berth 22. Train departs platform 3 at 23:10.",0,english,train_pnr
+"Google Pay: You've received Rs 2,850 as cashback reward, confirm within 20 minutes to retain amount",1,english,upi_refund
+"Work from home Amazon associate role, Rs 24,000/month, complete short training module, pay Rs 399 kit fee",1,english,job_offer
+Train 12841 Coromandel Express arriving 15 minutes late at Visakhapatnam junction today.,0,english,train_pnr
+"Bata: Your shoe order has been delivered successfully, thank you for shopping with us.",0,english,delivery_update
+"We're planning a short trip to Pondicherry next month, check your calendar and let us know",0,english,family_chat
+"Your SBI card has 13,800 reward points expiring soon, redeem now before they lapse permanently",1,english,credit_card_reward
+"Earn from product reviews, Rs 450 per review, register with small deposit Rs 250 refundable fee",1,english,job_offer
+"Urban Company: Your plumber booking is confirmed for 4 PM today, technician Rajesh will call before arrival.",0,english,delivery_update
+"FirstCry: Your baby product order has been delivered, thank you for shopping with us.",0,english,delivery_update
+Zepto: Order delivered successfully at 7:42 PM. Hope you enjoyed your shopping experience.,0,english,delivery_update
+"Earn guaranteed 20% weekly return on crypto staking, minimum deposit Rs 7,500 to activate your account",1,english,investment_crypto
+"Amazon: Your package is delayed by one day due to weather conditions, new estimate 11 Nov.",0,english,delivery_update
+"Dear subscriber, your power meter reading pending verification, pay Rs 1,870 fine to prevent disconnection tonight",1,english,electricity_bill
+"Lucknow Cyber Police: Your number used to threaten a public official, do not hang up or legal notice follows",1,english,digital_arrest
+"Tata hiring work from home associates urgently, Rs 32,000 salary, send resume and registration fee to proceed",1,english,job_offer
+"Join VIP trading signals group, members made Rs 50,000 last week, small entry fee Rs 1,500 applies",1,english,investment_crypto
+"Meesho: Your order has been shipped via Delhivery, expected to arrive by 14 Nov.",0,english,delivery_update
+"Cousin's engagement function is on 22nd, everyone is coming, try to take leave that day",0,english,family_chat
+"NSS unit: Blood donation camp organized on campus this Saturday, 9 AM to 1 PM, volunteers needed.",0,english,college_notice
+"ICICI cardholder: Your 9,600 reward points lapsing in 8 hours, redeem via the secure link provided",1,english,credit_card_reward
+JioMart: Your weekly grocery subscription order will be delivered tomorrow morning between 7-9 AM.,0,english,delivery_update
+Croma: Your refrigerator delivery and installation is confirmed for tomorrow between 1-3 PM.,0,english,delivery_update
+"This is delivery executive, kindly share the verification code to confirm you have received the parcel",1,english,otp_request
+"Reminder: Your orthopedic consultation at CMC Hospital is confirmed for 17-Nov, 10 AM.",0,english,appointment_reminder
+"Hostel office: New entry timing is 9 PM from next week, kindly follow the updated curfew.",0,english,college_notice
+"This is Axis Bank anti-fraud cell, your debit card compromised, call back urgently to prevent misuse",1,english,fake_customer_care
+"Aramex: Your package is held for customs documentation, submit Rs 310 fee to proceed with clearance",1,english,courier_customs
+"Dear consumer, smart meter shows tampering, pay penalty Rs 2,750 within 4 hours to avoid disconnection",1,english,electricity_bill
+"Crypto arbitrage plan offers Rs 5,000 daily fixed income, deposit Rs 14,000 to begin earning today",1,english,investment_crypto
+"This is HDFC fraud prevention desk, unusual withdrawal detected, call our officer immediately to block card",1,english,fake_customer_care
+"Online part time job for students, Rs 15,000/month, data entry work, apply before slots fill up",1,english,job_offer
+"PNB OTP 573819 for enabling UPI AutoPay. Do not share this OTP with anyone, including bank staff.",0,english,bank_otp
+"BHIM app: Excess amount Rs 1,090 credited by error, click to return and get Rs 300 reward",1,english,upi_refund
+"Big Bazaar mega draw: You have won a free scooter, pay Rs 999 registration to receive delivery",1,english,lottery_prize
+"LoanFast: You qualify for Rs 1,50,000 instant loan, zero paperwork, pay insurance premium Rs 1,200 to unlock amount",1,english,loan_app
+"Fibe app: Congratulations, pre-approved loan Rs 25,000 ready for disbursal, activate with Rs 299 verification charge",1,english,loan_app
+"StashFin: Your instant loan of Rs 42,000 is ready for disbursal, pay Rs 620 processing charge to unlock",1,english,loan_app
+Airtel: Rs 599 recharge done. Plan valid for 84 days with unlimited calling benefits.,0,english,recharge_confirmation
+Yes Bank: Your mobile banking will be blocked tonight unless you complete pending KYC verification now,1,english,kyc_update
+"This is RBI helpline, your account under review for suspicious activity, contact officer to clear it urgently",1,english,fake_customer_care
+Decathlon: Your sports equipment order has been delivered to your doorstep successfully.,0,english,delivery_update
+"BSNL: Rs 797 recharge done successfully, validity extended by 180 days.",0,english,recharge_confirmation
+"Online form filling job, Rs 35 per form, register today with Rs 299 to receive your first batch of work",1,english,job_offer
+"EasyCash loan app: Your credit limit increased to Rs 90,000, download app and pay Rs 499 activation fee",1,english,loan_app
+"BESCOM: Bill amount Rs 1,090 for connection XX1847 is due on 28-Nov-2026.",0,english,electricity_reminder
+"Thatha is asking why you haven't called in two days, please call him tonight",0,english,family_chat
+"TANGEDCO: Your bill of Rs 1,150 for connection XX6184 is due on 27-Nov-2026.",0,english,electricity_reminder
+"This is Interpol Liaison Cell India, your account flagged in international fraud alert, cooperate on this call immediately",1,english,digital_arrest
+"Dear customer, duplicate payment of Rs 890 detected on your UPI, click to reverse and claim bonus",1,english,upi_refund
