@@ -1,0 +1,57 @@
+{
+  "feed": {
+    "urls": 298,
+    "hosts": 284,
+    "date": "2026-11-25 03:47 UTC",
+    "source": "OpenPhish community feed"
+  },
+  "phishing_rules_only": {
+    "n": 298,
+    "HIGH": 5,
+    "MEDIUM": 214,
+    "LOW": 79,
+    "none": 0,
+    "high_pct": 1.7,
+    "high_or_medium_pct": 73.5
+  },
+  "phishing_with_feed": {
+    "n": 298,
+    "HIGH": 298,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "none": 0,
+    "high_pct": 100.0,
+    "high_or_medium_pct": 100.0
+  },
+  "legit_rules_only": {
+    "n": 114,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 114,
+    "none": 0,
+    "high_pct": 0.0,
+    "high_or_medium_pct": 0.0
+  },
+  "legit_with_feed": {
+    "n": 114,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 114,
+    "none": 0,
+    "high_pct": 0.0,
+    "high_or_medium_pct": 0.0
+  },
+  "legit_flagged_examples": [],
+  "phish_missed_by_rules_examples": [
+    "https://qa-amex.ourvacationcenter.com",
+    "https://roses53.github.io/phish-site-",
+    "https://auth.properties/e.y-sllj4ki86yrq?/microsoftonline/mailbox/upgrade&userid=75468973984785978212312307887543",
+    "https://meccamacextnsuin.gitbook.io",
+    "https://stepflow2mt.swedencentral.cloudapp.azure.com/ch/ch_css_mkit",
+    "https://squeeth-uniswap.netlify.app",
+    "https://roblox.com.kz/users/667126232/profile",
+    "https://member157.metaagencypartner.com",
+    "https://sjhskmn.pages.dev",
+    "https://notflix-azure.vercel.app"
+  ]
+}

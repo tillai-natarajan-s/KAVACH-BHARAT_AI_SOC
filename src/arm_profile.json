@@ -1,0 +1,50 @@
+{
+  "cpu": {
+    "cpu_part": "0xd0b (Cortex-A76)",
+    "cores": 4,
+    "max_freq_ghz": 2.4,
+    "arm_features_used": {
+      "asimd": "NEON / Advanced SIMD",
+      "fphp": "FP16 scalar",
+      "asimdhp": "FP16 SIMD",
+      "asimddp": "INT8 dot product (SDOT/UDOT)",
+      "lrcpc": "RCpc",
+      "atomics": "LSE atomics"
+    },
+    "governor": "ondemand"
+  },
+  "before": {
+    "temp_c": 50.5,
+    "fan_rpm": 2022,
+    "throttled": "throttled=0xe0000"
+  },
+  "stage1_core_scaling": {
+    "1_core": {
+      "p50_ms": 103.86,
+      "p95_ms": 104.08,
+      "mean_ms": 103.89,
+      "msgs_per_s": 9.6,
+      "temp_c_after": 63.1
+    },
+    "2_core": {
+      "p50_ms": 58.2,
+      "p95_ms": 58.35,
+      "mean_ms": 58.21,
+      "msgs_per_s": 17.0,
+      "temp_c_after": 68.6
+    },
+    "4_core": {
+      "p50_ms": 38.59,
+      "p95_ms": 38.76,
+      "mean_ms": 38.61,
+      "msgs_per_s": 25.6,
+      "temp_c_after": 75.7
+    }
+  },
+  "after": {
+    "temp_c": 65.9,
+    "fan_rpm": 6151,
+    "throttled": "throttled=0xe0000",
+    "arm_clock_hz": "frequency(0)=2400033792"
+  }
+}

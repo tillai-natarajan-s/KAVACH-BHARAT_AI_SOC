@@ -1,0 +1,55 @@
+{
+  "dataset": "UCI SMS Spam Collection (English, UK, 2012) - external, never trained on",
+  "all_rows": {
+    "n": 5574,
+    "spam": 747,
+    "ham": 4827,
+    "accuracy": 0.8541,
+    "spam_recall": 0.8153,
+    "precision": 0.4743,
+    "f1": 0.5997,
+    "ham_false_alarm_rate": 0.1398,
+    "missed_spam": 138,
+    "false_alarms": 675
+  },
+  "unique_rows": {
+    "n": 5171,
+    "spam": 653,
+    "ham": 4518,
+    "accuracy": 0.8592,
+    "spam_recall": 0.8101,
+    "precision": 0.4669,
+    "f1": 0.5924,
+    "ham_false_alarm_rate": 0.1337,
+    "missed_spam": 124,
+    "false_alarms": 604
+  },
+  "latency_ms": {
+    "mean": 40.7,
+    "p50": 40.6
+  },
+  "missed_spam_examples": [
+    "Congrats! 1 year special cinema pass for 2 is yours. call 09061209465 now! C Suprman V, Matrix3, StarWars3, etc all 4 FREE! bx420-ip4-5we. 150pm. Dont miss out! ",
+    "Did you hear about the new \"Divorce Barbie\"? It comes with all of Ken's stuff!",
+    "Are you unique enough? Find out from 30th August. www.areyouunique.co.uk",
+    "Ringtone Club: Get the UK singles chart on your mobile each week and choose any top quality ringtone! This message is free of charge.",
+    "SMS. ac Blind Date 4U!: Rodds1 is 21/m from Aberdeen, United Kingdom. Check Him out http://img. sms. ac/W/icmb3cktz8r7!-4 no Blind Dates send HIDE",
+    "Call Germany for only 1 pence per minute! Call from a fixed line via access number 0844 861 85 85. No prepayment. Direct access!",
+    "Fancy a shag? I do.Interested? sextextuk.com txt XXUK SUZY to 69876. Txts cost 1.50 per msg. TnCs on website. X",
+    "100 dating service cal;l 09064012103 box334sk38ch",
+    "Congrats! 1 year special cinema pass for 2 is yours. call 09061209465 now! C Suprman V, Matrix3, StarWars3, etc all 4 FREE! bx420-ip4-5we. 150pm. Dont miss out!",
+    "from www.Applausestore.com MonthlySubscription@50p/msg max6/month T&CsC web age16 2stop txt stop"
+  ],
+  "false_alarm_examples": [
+    "As per your request 'Melle Melle (Oru Minnaminunginte Nurungu Vettam)' has been set as your callertune for all Callers. Press *9 to copy your friends Callertune",
+    "I've been searching for the right words to thank you for this breather. I promise i wont take your help for granted and will fulfil my promise. You have been wonderful and a blessing at all times.",
+    "Just forced myself to eat a slice. I'm really not hungry tho. This sucks. Mark is getting worried. He knows I'm sick when I turn down pizza. Lol",
+    "Did I forget to tell you ? I want you , I need you, I crave you ... But most of all ... I love you my sweet Arabian steed ... Mmmmmm ... Yummy",
+    "A gram usually runs like  &lt;#&gt; , a half eighth is smarter though and gets you almost a whole second gram for  &lt;#&gt;",
+    "Wow. I never realized that you were so embarassed by your accomodations. I thought you liked it, since i was doing the best i could and you always seemed so happy about \"the cave\". I'm sorry I didn't and don't have more to give. I'm sorry i offered. I'm sorry your room was so embarassing.",
+    "Your gonna have to pick up a $1 burger for yourself on your way home. I can't even move. Pain is killing me.",
+    "Sorry to be a pain. Is it ok if we meet another night? I spent late afternoon in casualty and that means i haven't done any of y stuff42moro and that includes all my time sheets and that. Sorry. ",
+    "Hi. Wk been ok - on hols now! Yes on for a bit of a run. Forgot that i have hairdressers appointment at four so need to get home n shower beforehand. Does that cause prob for u?\"",
+    "Okay name ur price as long as its legal! Wen can I pick them up? Y u ave x ams xx"
+  ]
+}

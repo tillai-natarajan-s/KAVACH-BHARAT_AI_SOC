@@ -1,0 +1,130 @@
+{
+  "device": "aarch64",
+  "platform": "Linux-6.18.50+rpt-rpi-2712-aarch64-with-glibc2.41",
+  "cpus": 4,
+  "total_ram_gb": 8.5,
+  "stage1_load_s": 2.54,
+  "stage1_model_mb": 38.2,
+  "stage1_latency_ms": {
+    "p50": 38.3,
+    "p95": 38.4,
+    "mean": 38.3
+  },
+  "challenge_set.csv": {
+    "accuracy": 0.879,
+    "missed_scams": 12,
+    "false_alarms": 5,
+    "per_language": {
+      "bengali": 0.95,
+      "english": 0.9,
+      "hindi": 1.0,
+      "hinglish": 0.85,
+      "tamil": 0.8,
+      "tanglish": 0.9,
+      "telugu": 0.75
+    }
+  },
+  "challenge_set_2.csv": {
+    "accuracy": 0.929,
+    "missed_scams": 0,
+    "false_alarms": 10,
+    "per_language": {
+      "bengali": 0.85,
+      "english": 0.95,
+      "hindi": 0.95,
+      "hinglish": 0.85,
+      "tamil": 1.0,
+      "tanglish": 0.9,
+      "telugu": 1.0
+    }
+  },
+  "ram_after_stage1_mb": 1176,
+  "stage2_load_s": 34.36,
+  "stage2_model_mb": 2997.6,
+  "stage2_runs": [
+    {
+      "lang": "ta",
+      "verdict": "SCAM",
+      "ttft_s": 2.4,
+      "tok_s": 4.41,
+      "new_tokens": 298,
+      "check": "ok",
+      "batch_prefill": true,
+      "text": "இது போலி வங்கி KYC மோசடி; கணக்கு முடக்கப்படும் என்ற மிரட்டலும் போலி இணைய பரிவர்த்தனையும் உடனடி பணம் கேட்கும் தந்திரம்\nவங்கி கணக்கு அல்லது அப்டேட் செய்தியை நம்ப வேண்டாம்\nஉங்கள் வங்கி அட்டையின் கீழ் சரிபார்க்கவும் மற்றும் 1930 or cybercrime.gov.in"
+    },
+    {
+      "lang": "tanglish",
+      "verdict": "SCAM",
+      "ttft_s": 1.61,
+      "tok_s": 4.49,
+      "new_tokens": 82,
+      "check": "ok",
+      "batch_prefill": true,
+      "text": "Idhu OTP thirudum mosadi; phone kudutha vendiya avasiyam thanipatta link illai.\nAntha OTP-ai yarukkum phone kudutha avasiyam thevai illai.\nUnga number-ku call panni pesunga; mosadi-na 1930 alladhu cybercrime.gov.in-la complaint pannunga."
+    },
+    {
+      "lang": "hinglish",
+      "verdict": "SCAM",
+      "ttft_s": 1.64,
+      "tok_s": 4.38,
+      "new_tokens": 84,
+      "check": "ok",
+      "batch_prefill": true,
+      "text": "Yeh army officer ke naam par saman thagne ki dhamki hai; ismein koi paise ya link nahi hai.\nKisi bhi tarah ke paise na bhejein aur koi UPI PIN na dalein.\nApne officer ke official number par call karein; fraud hone par 1930 ya cybercrime.gov.in par complaint karein."
+    },
+    {
+      "lang": "hi",
+      "verdict": "SCAM",
+      "ttft_s": 1.69,
+      "tok_s": 4.38,
+      "new_tokens": 110,
+      "check": "ok",
+      "batch_prefill": true,
+      "text": "यह फर्जी बिजली कनेक्शन धोखाधड़ी है; बिजली विभाग रात में कनेक्शन काटने की धमकी देकर निजी नंबर पर कॉल नहीं कराता\nदिए गए नंबर पर कॉल न करें और कोई ऐप डाउनलोड न करें\nआधिकारिक विभाग वेबसाइट पर जांच करें और रिपोर्ट करें 1930 or cybercrime.gov.in"
+    },
+    {
+      "lang": "en",
+      "verdict": "GENUINE",
+      "ttft_s": 1.55,
+      "tok_s": 4.41,
+      "new_tokens": 42,
+      "check": "ok",
+      "batch_prefill": true,
+      "text": "This is a genuine FASTag recharge notification; it contains no links asking for bank credentials or OTP requests\nKeep your FASTag balance and card details confidential\nCheck your balance regularly on the official MyFASTag app"
+    },
+    {
+      "lang": "bn",
+      "verdict": "SCAM",
+      "ttft_s": 2.23,
+      "tok_s": 4.36,
+      "new_tokens": 224,
+      "check": "ok",
+      "batch_prefill": true,
+      "text": "এটি ভুয়ো পারিবারিক লটারি প্রতারণা; সন্তান হওয়ার হুমকি এবং ফোন ভাঙার অজুহাতে টাকা চাওয়া হয়\nভয় পেয়ে কোনো টাকা পাঠাবেন না\nনিকটবর্তী থানায় যোগাযোগ করুন এবং রিপোর্ট করুন 1930 or cybercrime.gov.in"
+    },
+    {
+      "lang": "te",
+      "verdict": "SCAM",
+      "ttft_s": 2.73,
+      "tok_s": 4.31,
+      "new_tokens": 420,
+      "check": "ok",
+      "batch_prefill": true,
+      "text": "ఇది నకిలీ కరెంట్ బిల్ మోసం; గత నెల లేదా సంవత్సరంలో అనేక రిమోట్ మెసేజ్ వచ్చినట్లు తెలిపే భయం మరియు ఇలాంటి ప్రమాదకరం సందేశాల పట్ల దీని ప్రమాదం ఉంది\nఉచిత బిల్లు పేరుతో వచ్చే నకిలీ మెసేజ్‌లను తెరవవద్దు\nఅధికారిక బిల్ కాస్ట్‌మెర్రే పోర్టల్‌లో తనిఖీ చేస"
+    },
+    {
+      "lang": "ta",
+      "verdict": "GENUINE",
+      "ttft_s": 1.94,
+      "tok_s": 4.34,
+      "new_tokens": 272,
+      "check": "ok",
+      "batch_prefill": true,
+      "text": "இது சமூக வலைதள நினைவூட்டல்; இதில் பணம் கேட்கப்படவில்லை, எந்த சந்தேக லிங்கும் இல்லை\nதனிப்பட்ட எண்களிலிருந்து வரும் இணைப்புகளை அழுத்த வேண்டாம்\nசமூக வலைதள மூலம் மட்டுமே பழைய எண்ணுக்கு அழைத்து பேசவும்"
+    }
+  ],
+  "stage2_tok_s_mean": 4.38,
+  "stage2_ttft_mean_s": 1.97,
+  "stage2_check_pass": "8/8",
+  "ram_after_stage2_mb": 4096
+}

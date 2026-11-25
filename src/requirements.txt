@@ -1,0 +1,6 @@
+executorch
+transformers
+sentencepiece
+streamlit
+psutil
+pandas
