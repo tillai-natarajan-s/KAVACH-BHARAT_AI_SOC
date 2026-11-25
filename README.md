@@ -84,9 +84,19 @@ cd KAVACH-BHARAT_AI_SOC/src
 bash setup_pi.sh                                   # venv ~/kavach-env + requirements
 ```
 
-**Llama model (2.8 GB, too big for GitHub):** download `kavach_llama_fp16.pte` and the `kavach_tokenizer/` folder from
-**LLAMA_DOWNLOAD_LINK** and put them in `src/models/llama/`.
-Without it KAVACH still runs: explanations come from the verified fallback messages.
+**Llama model (2.8 GB):** it is attached to the
+[**v1.0-phase1 release**](https://github.com/tillai-natarajan-s/KAVACH-BHARAT_AI_SOC/releases/tag/v1.0-phase1)
+in two parts (GitHub allows 2 GB per file). Download all release files into `src/models/llama/`, then join and verify:
+
+```bash
+cd src/models/llama
+cat kavach_llama_fp16.pte.part00 kavach_llama_fp16.pte.part01 > kavach_llama_fp16.pte
+sha256sum -c kavach_llama_fp16.pte.sha256          # must print: kavach_llama_fp16.pte: OK
+tar xzf kavach_tokenizer.tar.gz                     # creates kavach_tokenizer/
+rm kavach_llama_fp16.pte.part0*
+```
+
+Without the Llama files KAVACH still runs: explanations come from the verified fallback messages.
 
 ```bash
 source ~/kavach-env/bin/activate
