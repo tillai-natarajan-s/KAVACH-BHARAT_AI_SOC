@@ -1,0 +1,14 @@
+# big / downloaded files (not in git)
+src/models/llama/
+src/models/threat_feed/
+src/data/uci_sms/
+*.pth
+*.safetensors
+# python
+__pycache__/
+*.pyc
+.venv/
+kavach-env/
+# secrets — never commit tokens
+.env
+*token*.txt
